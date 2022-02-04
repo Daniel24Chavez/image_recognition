@@ -1,6 +1,6 @@
 {
   "Medicines": [
-    {"id":"0","name": "Aspirina","description": "Medicamento"},
+    {"id":"0","name": "Aspirina","description": "Medicamento","dosis": "100mg"},
     {"id":"1","name": "Betaferon","description": "Medicamento"},
     {"id":"2","name": "Cilostazol","description": "Medicamento"},
     {"id":"3","name": "Diazepan Prodes","description": "Medicamento"},
