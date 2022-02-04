@@ -1,14 +1,14 @@
 {
   "Medicines": [
-    {"id":"0","name": "Aspirina","description": "Medicamento","dosis": "100mg"},
-    {"id":"1","name": "Betaferon","description": "Medicamento"},
-    {"id":"2","name": "Cilostazol","description": "Medicamento"},
-    {"id":"3","name": "Diazepan Prodes","description": "Medicamento"},
-    {"id":"4","name": "Eutirox","description": "Medicamento"},
-    {"id":"5","name": "Fabroven","description": "Medicamento"},
-    {"id":"6","name": "Gabapentina","description": "Medicamento"},
-    {"id":"7","name": "Ibuprofeno","description": "Medicamento"},
-    {"id":"8","name": "Jakavi","description": "Medicamento"},
-    {"id":"9","name": "Metamizol Sodico","description": "Medicamento"}
+    {"id":"0","name": "Aspirina","description": "Medicamento","dosis": "500mg"},
+    {"id":"1","name": "Betaferon","description": "Medicamento","dosis": "100mg"},
+    {"id":"2","name": "Cilostazol","description": "Medicamento","dosis": "100mg"},
+    {"id":"3","name": "Diazepan Prodes","description": "Medicamento","dosis": "100mg"},
+    {"id":"4","name": "Eutirox","description": "Medicamento","dosis": "100mg"},
+    {"id":"5","name": "Fabroven","description": "Medicamento","dosis": "100mg"},
+    {"id":"6","name": "Gabapentina","description": "Medicamento","dosis": "100mg"},
+    {"id":"7","name": "Ibuprofeno","description": "Medicamento","dosis": "100mg"},
+    {"id":"8","name": "Jakavi","description": "Medicamento","dosis": "100mg"},
+    {"id":"9","name": "Metamizol Sodico","description": "Medicamento","dosis": "100mg"}
   ]
 }
