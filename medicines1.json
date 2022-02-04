@@ -4,7 +4,7 @@
       "id": "0",
       "name": "Aspirina",
       "dosis": "500mg",
-      "contraindicaciones": "lcera gastroduodenal aguda, crónica o recurrente; molestias gástricas de repetición, antecedentes de hemorragia o perforación gástrica tras tto. con AAS o AINE; diátesis hemorrágica; historia de asma o asma inducida por salicilatos o medicamentos de acción similar; hipersensibilidad a salicilatos, AINE o tartrazina; antecedentes de mastocitosis para los que el uso de AAS puede inducir reacciones graves de hipersensibilidad (incluyendo shock circulatorio con rubor, hipotensión, taquicardia y vómitos); trastornos de coagulación; I.R., I.H. o cardiaca graves; pólipos nasales asociados a asma inducidos o exacerbados por AAS; tto. con metotrexato a dosis de 15 mg/sem o superiores; menores de 16 años (riesgo de s. de Reye); 3 er trimestre embarazo a dosis > 100 mg/día.",
+      "contraindicaciones": "lcera gastroduodenal aguda, crónica o recurrente; molestias gástricas de repetición, antecedentes de hemorragia o perforación gástrica tras tto. con AAS o AINE; diátesis hemorrágica; historia de asma o asma inducida por salicilatos o medicamentos de acción similar;",
       "usos": "actua reduciendo el dolor y la fiebre"
     },
     {"id":"1",
