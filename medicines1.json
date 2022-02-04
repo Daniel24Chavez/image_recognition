@@ -35,7 +35,5 @@
     {"id":"7","name": "Ibuprofeno","dosis": "100mg","contraindicaciones": "Estreñimiento, diarrea, gases o distensión abdominal, mareo, nerviosismo, zumbidos en los oídos.","usos": "se usa para bajar la fiebre y para aliviar dolores leves como dolores de cabeza, dolores musculares, artritis, cólicos menstruales"},
     {"id":"8","name": "Jakavi","dosis": "100mg","contraindicaciones": "Hipersensibilidad al principio activo","usos": "tratamiento de los siguientes trastornos: • mielofibrosis en adultos que presentan esplenomegalia (aumento de tamaño del bazo)"},
     {"id":"9","name": "Metamizol Sodico","dosis": "100mg","contraindicaciones": "reacciones de hipersensibilidad: las más importantes son discrasias sanguíneas (agranulocitosis, leucopenia, trombocitopenia) y choque.","usos": "para el tratamiento del dolor agudo intenso (postoperatorio, posttraumático, cólico, neoplásico) o de la fiebre alta que no responde a otros tratamientos"}
-
-
   ]
 }
