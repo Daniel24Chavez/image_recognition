@@ -2,7 +2,7 @@
   "Medicines": [
     {"id":"0","name": "Aspirina","dosis": "500mg","contraindicaciones": "","usos": "actua reduciendo el dolor y la fiebre"},
     {"id":"1","name": "Betaferon","dosis": "100mg","contraindicaciones": ""},
-    {"id":"2","name": "Cilostazol","dosis": "100mg","contraindicaciones": ""},
+    {"id":"2","name": "Cilostazol Aristo","dosis": "100mg","contraindicaciones": ""},
     {"id":"3","name": "Diazepan Prodes","dosis": "100mg","contraindicaciones": ""},
     {"id":"4","name": "Eutirox","dosis": "100mg","contraindicaciones": ""},
     {"id":"5","name": "Fabroven","dosis": "100mg","contraindicaciones": ""},
