@@ -1,0 +1,14 @@
+{
+  "Medicines": [
+    {"id":"0","name": "Aspirina","description": "Medicamento"},
+    {"id":"1","name": "Betaferon","description": "Medicamento"},
+    {"id":"2","name": "Cilostazol","description": "Medicamento"},
+    {"id":"3","name": "Diazepan Prodes","description": "Medicamento"},
+    {"id":"4","name": "Eutirox","description": "Medicamento"},
+    {"id":"5","name": "Fabroven","description": "Medicamento"},
+    {"id":"6","name": "Gabapentina","description": "Medicamento"},
+    {"id":"7","name": "Ibuprofeno","description": "Medicamento"},
+    {"id":"8","name": "Jakavi","description": "Medicamento"},
+    {"id":"9","name": "Metamizol Sodico","description": "Medicamento"}
+  ]
+}
