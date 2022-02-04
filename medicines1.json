@@ -1,7 +1,7 @@
 {
   "Medicines": [
-    {"id":"0","name": "Aspirina","description": "Medicamento","dosis": "500mg","contraindicaciones": "","usos": "El ácido acetilsalicílico, principio activo de este medicamento, actúa reduciendo el dolor y la fiebre."},
-    {"id":"1","name": "Betaferon","description": "Medicamento","dosis": "100mg","contraindicaciones": "","usos": "Betaferon es un tipo de medicamento conocido como interferón, utilizado en el tratamiento de la esclerosis múltiple. Los interferones son proteínas producidas por el organismo que le ayudan a combatir contra los ataques al sistema inmunitario, tales como las infecciones víricas."},
+    {"id":"0","name": "Aspirina","description": "Medicamento","dosis": "500mg","contraindicaciones": "","usos": "actúa reduciendo el dolor y la fiebre"},
+    {"id":"1","name": "Betaferon","description": "Medicamento","dosis": "100mg","contraindicaciones": ""},
     {"id":"2","name": "Cilostazol","description": "Medicamento","dosis": "100mg","contraindicaciones": ""},
     {"id":"3","name": "Diazepan Prodes","description": "Medicamento","dosis": "100mg","contraindicaciones": ""},
     {"id":"4","name": "Eutirox","description": "Medicamento","dosis": "100mg","contraindicaciones": ""},
