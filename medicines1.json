@@ -1,38 +1,75 @@
 {
   "Medicines": [
-    {"id":"0",
+    {
+      "id": "0",
       "name": "Aspirina",
       "dosis": "500mg",
       "contraindicaciones": "lcera gastroduodenal aguda, crónica o recurrente; molestias gástricas de repetición, antecedentes de hemorragia o perforación gástrica tras tto. con AAS o AINE; diátesis hemorrágica; historia de asma o asma inducida por salicilatos o medicamentos de acción similar; hipersensibilidad a salicilatos, AINE o tartrazina; antecedentes de mastocitosis para los que el uso de AAS puede inducir reacciones graves de hipersensibilidad (incluyendo shock circulatorio con rubor, hipotensión, taquicardia y vómitos); trastornos de coagulación; I.R., I.H. o cardiaca graves; pólipos nasales asociados a asma inducidos o exacerbados por AAS; tto. con metotrexato a dosis de 15 mg/sem o superiores; menores de 16 años (riesgo de s. de Reye); 3 er trimestre embarazo a dosis > 100 mg/día.",
       "usos": "actua reduciendo el dolor y la fiebre"
     },
-    {"id":"1",
+    {
+      "id": "1",
       "name": "Betaferon",
       "dosis": "100mg",
       "contraindicaciones": "Hipersensibilidad a interferón-ß natural o recombinante, inicio del tto. en el embarazo, depresión grave y/o ideación suicida, hepatopatía descompensada.",
       "usos": "Actividad antivírica e inmunorreguladora, mediada por su interacción con receptores celulares específicos en la superficie de células humanas."
     },
-    {"id":"2",
-      "name": 
-      "Cilostazol Aristo",
+    {
+      "id": "2",
+      "name": "Cilostazol Aristo",
       "dosis": "100mg",
       "contraindicaciones": "Insuficiencia renal grave: aclaramiento de la creatinina = 25 ml/min. Insuficiencia hepática moderada o grave. Insuficiencia cardíaca congestiva. Embarazo. Pacientes con predisposición conocida a sufrir hemorragias (ej., úlcera péptica activa, apoplejía hemorrágica reciente [seis últimos meses], retinopatía diabética proliferativa, hipertensión inadecuadamente controlada). Pacientes con antecedentes de taquicardia ventricular, fibrilación ventricular o ectópicos ventriculares multifocales, estén o no adecuadamente tratados, y pacientes con prolongación del intervalo QTc. Pacientes con antecedentes de taquiarritmia grave.Pacientes tratados de forma concomitante con dos o más agentes antiplaquetarios o anticoagulantes (por ej., ácido acetilsalicílico, clopidogrel, heparina, warfarina, acenocumarol, dabigatrán, rivaroxabán o apixabán).Pacientes con angina de pecho inestable, infarto de miocardio en el transcurso de los últimos 6 meses, o una intervención coronaria en los últimos 6 meses.",
       "usos": "Cilostazol está indicado para la mejora de la distancia máxima recorrida y distancia recorrida sin dolor que pueden cubrir los pacientes con claudicación intermitente, que no sufren dolor en reposo y que no presentan indicios de necrosis tisular periférica (arteriopatía periférica de Fontaine en estadio II). Cilostazol está indicado para el tratamiento de segunda línea, en pacientes en los que las modificaciones del estilo de vida (incluido abandono del tabaquismo y programas de ejercicio supervisados) y otras intervenciones apropiadas no han sido suficientes para mejorar los síntomas de claudicación intermitente."
     },
-    {"id":"3",
+    {
+      "id": "3",
       "name": "Diazepan Prodes",
       "dosis": "10mg",
       "contraindicaciones": "Miastenia gravis. Hipersensibilidad a las benzodiazepinas o dependencia de otras sustancias, incluido el alcohol (excepto en el tratamiento de los síntomas de abstención).  Insuficiencia respiratoria severa.  Síndrome de apnea del sueño.  Insuficiencia hepática severa. Glaucoma de ángulo cerrado. Hipercapnia crónica grave.",
-      "usos": "El diazepam está indicado para la supresión sintomática de la ansiedad, la agitación y la tensión psíquica debidas a estados psiconeuróticos y trastornos situacionales transitorios. En pacientes con privación alcohólica, puede ser útil para el alivio sintomático de la agitación aguda, el temblor y las alucinaciones."},
-    {"id":"4",
+      "usos": "El diazepam está indicado para la supresión sintomática de la ansiedad, la agitación y la tensión psíquica debidas a estados psiconeuróticos y trastornos situacionales transitorios. En pacientes con privación alcohólica, puede ser útil para el alivio sintomático de la agitación aguda, el temblor y las alucinaciones."
+    },
+    {
+      "id": "4",
       "name": "Eutirox",
       "dosis": "100mg",
       "contraindicaciones": "Hipersensibilidad; hipertiroidismo, insuf. adrenal, insuf. corticosuprarrenal, insuf. pituitaria (cuando conlleve a una insuf. adrenal que requiera tto.), insuf. hipofisaria y tirotoxicosis no tratadas; IAM, miocarditis aguda y pancarditis aguda; administración concomitante con antitiroideos en embarazo y lactancia.",
-      "usos": "Efecto idéntico a la hormona natural secretada por la tiroides. Se transforma en T3 en órganos periféricos y, como la hormona endógena, desarrolla su efecto a nivel de receptores T3 . El organismo no es capaz de distinguir entre levotiroxina endógena y exógena."},
-    {"id":"5","name": "Fabroven","dosis": "100mg","contraindicaciones": "Trastornos de almacenamiento del hierro (talasemia, hemocromatosis, anemia sideroblástica)","usos": "tratamiento de las manifestaciones crónicas, funcionales y orgánicas de los miembros inferiores"},
-    {"id":"6","name": "Gabapentina","dosis": "100mg","contraindicaciones": "somnolencia, debilidad o cansancio, mareos, dolor de cabeza, temblor incontrolable de alguna parte del cuerpo, ansiedad.","usos": "utilizado para ayudar a manejar ciertas convulsiones epilépticas y aliviar el dolor para algunas afecciones, como el herpes"},
-    {"id":"7","name": "Ibuprofeno","dosis": "100mg","contraindicaciones": "Estreñimiento, diarrea, gases o distensión abdominal, mareo, nerviosismo, zumbidos en los oídos.","usos": "se usa para bajar la fiebre y para aliviar dolores leves como dolores de cabeza, dolores musculares, artritis, cólicos menstruales"},
-    {"id":"8","name": "Jakavi","dosis": "100mg","contraindicaciones": "Hipersensibilidad al principio activo","usos": "tratamiento de los siguientes trastornos: • mielofibrosis en adultos que presentan esplenomegalia (aumento de tamaño del bazo)"},
-    {"id":"9","name": "Metamizol Sodico","dosis": "100mg","contraindicaciones": "reacciones de hipersensibilidad: las más importantes son discrasias sanguíneas (agranulocitosis, leucopenia, trombocitopenia) y choque.","usos": "para el tratamiento del dolor agudo intenso (postoperatorio, posttraumático, cólico, neoplásico) o de la fiebre alta que no responde a otros tratamientos"}
+      "usos": "Efecto idéntico a la hormona natural secretada por la tiroides. Se transforma en T3 en órganos periféricos y, como la hormona endógena, desarrolla su efecto a nivel de receptores T3 . El organismo no es capaz de distinguir entre levotiroxina endógena y exógena."
+    },
+    {
+      "id": "5",
+      "name": "Fabroven",
+      "dosis": "100mg",
+      "contraindicaciones": "Trastornos de almacenamiento del hierro (talasemia, hemocromatosis, anemia sideroblástica)",
+      "usos": "tratamiento de las manifestaciones crónicas, funcionales y orgánicas de los miembros inferiores"
+    },
+    {
+      "id": "6",
+      "name": "Gabapentina",
+      "dosis": "100mg",
+      "contraindicaciones": "somnolencia, debilidad o cansancio, mareos, dolor de cabeza, temblor incontrolable de alguna parte del cuerpo, ansiedad.",
+      "usos": "utilizado para ayudar a manejar ciertas convulsiones epilépticas y aliviar el dolor para algunas afecciones, como el herpes"
+    },
+    {
+      "id": "7",
+      "name": "Ibuprofeno",
+      "dosis": "100mg",
+      "contraindicaciones": "Estreñimiento, diarrea, gases o distensión abdominal, mareo, nerviosismo, zumbidos en los oídos.",
+      "usos": "se usa para bajar la fiebre y para aliviar dolores leves como dolores de cabeza, dolores musculares, artritis, cólicos menstruales"
+    },
+    {
+      "id": "8",
+      "name": "Jakavi",
+      "dosis": "100mg",
+      "contraindicaciones": "Hipersensibilidad al principio activo",
+      "usos": "tratamiento de los siguientes trastornos: • mielofibrosis en adultos que presentan esplenomegalia (aumento de tamaño del bazo)"
+    },
+    {
+      "id": "9",
+      "name": "Metamizol Sodico",
+      "dosis": "100mg",
+      "contraindicaciones": "reacciones de hipersensibilidad: las más importantes son discrasias sanguíneas (agranulocitosis, leucopenia, trombocitopenia) y choque.",
+      "usos": "para el tratamiento del dolor agudo intenso (postoperatorio, posttraumático, cólico, neoplásico) o de la fiebre alta que no responde a otros tratamientos"
+    }
   ]
+}
 }
