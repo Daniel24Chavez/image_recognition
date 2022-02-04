@@ -1,14 +1,14 @@
 {
   "Medicines": [
-    {"id":"0","name": "Aspirina","description": "Medicamento","dosis": "500mg","contraindicaciones": "","usos": "actúa reduciendo el dolor y la fiebre"},
-    {"id":"1","name": "Betaferon","description": "Medicamento","dosis": "100mg","contraindicaciones": ""},
-    {"id":"2","name": "Cilostazol","description": "Medicamento","dosis": "100mg","contraindicaciones": ""},
-    {"id":"3","name": "Diazepan Prodes","description": "Medicamento","dosis": "100mg","contraindicaciones": ""},
-    {"id":"4","name": "Eutirox","description": "Medicamento","dosis": "100mg","contraindicaciones": ""},
-    {"id":"5","name": "Fabroven","description": "Medicamento","dosis": "100mg","contraindicaciones": ""},
-    {"id":"6","name": "Gabapentina","description": "Medicamento","dosis": "100mg","contraindicaciones": ""},
-    {"id":"7","name": "Ibuprofeno","description": "Medicamento","dosis": "100mg","contraindicaciones": ""},
-    {"id":"8","name": "Jakavi","description": "Medicamento","dosis": "100mg","contraindicaciones": ""},
-    {"id":"9","name": "Metamizol Sodico","description": "Medicamento","dosis": "100mg","contraindicaciones": ""}
+    {"id":"0","name": "Aspirina","dosis": "500mg","contraindicaciones": "","usos": "actua reduciendo el dolor y la fiebre"},
+    {"id":"1","name": "Betaferon","dosis": "100mg","contraindicaciones": ""},
+    {"id":"2","name": "Cilostazol","dosis": "100mg","contraindicaciones": ""},
+    {"id":"3","name": "Diazepan Prodes","dosis": "100mg","contraindicaciones": ""},
+    {"id":"4","name": "Eutirox","dosis": "100mg","contraindicaciones": ""},
+    {"id":"5","name": "Fabroven","dosis": "100mg","contraindicaciones": ""},
+    {"id":"6","name": "Gabapentina","dosis": "100mg","contraindicaciones": ""},
+    {"id":"7","name": "Ibuprofeno","dosis": "100mg","contraindicaciones": ""},
+    {"id":"8","name": "Jakavi","dosis": "100mg","contraindicaciones": ""},
+    {"id":"9","name": "Metamizol Sodico","dosis": "100mg","contraindicaciones": ""}
   ]
 }
