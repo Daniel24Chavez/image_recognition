@@ -2,70 +2,70 @@
   "Medicines": [
     {
       "id": "0",
-      "name": "Aspirina",
+      "nombre": "Aspirina",
       "dosis": "500mg",
       "contraindicaciones": "lcera gastroduodenal aguda, crónica o recurrente; molestias gástricas de repetición, antecedentes de hemorragia o perforación gástrica tras tto. con AAS o AINE; diátesis hemorrágica; historia de asma o asma inducida por salicilatos o medicamentos de acción similar;",
       "usos": "Actua reduciendo el dolor y la fiebre."
     },
     {
       "id": "1",
-      "name": "Betaferon",
+      "nombre": "Betaferon",
       "dosis": "100mg",
       "contraindicaciones": "Hipersensibilidad a interferón-ß natural o recombinante, inicio del tto. en el embarazo, depresión grave y/o ideación suicida, hepatopatía descompensada.",
       "usos": "Actividad antivírica e inmunorreguladora, mediada por su interacción con receptores celulares específicos en la superficie de células humanas."
     },
     {
       "id": "2",
-      "name": "Cilostazol Aristo",
+      "nombre": "Cilostazol Aristo",
       "dosis": "100mg",
       "contraindicaciones": "Insuficiencia renal grave: aclaramiento de la creatinina = 25 ml/min. Insuficiencia hepática moderada o grave. Insuficiencia cardíaca congestiva. Embarazo. Pacientes con predisposición conocida a sufrir hemorragias (ej., úlcera péptica activa, apoplejía hemorrágica reciente [seis últimos meses], retinopatía diabética proliferativa, hipertensión inadecuadamente controlada).",
       "usos": "Cilostazol está indicado para la mejora de la distancia máxima recorrida y distancia recorrida sin dolor que pueden cubrir los pacientes con claudicación intermitente, que no sufren dolor en reposo y que no presentan indicios de necrosis tisular periférica (arteriopatía periférica de Fontaine en estadio II). "
     },
     {
       "id": "3",
-      "name": "Diazepan Prodes",
+      "nombre": "Diazepan Prodes",
       "dosis": "10mg",
       "contraindicaciones": "Miastenia gravis. Hipersensibilidad a las benzodiazepinas o dependencia de otras sustancias, incluido el alcohol (excepto en el tratamiento de los síntomas de abstención).",
       "usos": "El diazepam está indicado para la supresión sintomática de la ansiedad, la agitación y la tensión psíquica debidas a estados psiconeuróticos y trastornos situacionales transitorios."
     },
     {
       "id": "4",
-      "name": "Eutirox",
+      "nombre": "Eutirox",
       "dosis": "100mg",
       "contraindicaciones": "Hipersensibilidad; hipertiroidismo, insuf. adrenal, insuf. corticosuprarrenal, insuf. pituitaria (cuando conlleve a una insuf. adrenal que requiera tto.), insuf. hipofisaria y tirotoxicosis no tratadas; IAM, miocarditis aguda y pancarditis aguda; administración concomitante con antitiroideos en embarazo y lactancia.",
       "usos": "Efecto idéntico a la hormona natural secretada por la tiroides. Se transforma en T3 en órganos periféricos y, como la hormona endógena, desarrolla su efecto a nivel de receptores T3 . El organismo no es capaz de distinguir entre levotiroxina endógena y exógena."
     },
     {
       "id": "5",
-      "name": "Fabroven",
+      "nombre": "Fabroven",
       "dosis": "100mg",
       "contraindicaciones": "Trastornos de almacenamiento del hierro (talasemia, hemocromatosis, anemia sideroblástica)",
       "usos": "tratamiento de las manifestaciones crónicas, funcionales y orgánicas de los miembros inferiores"
     },
     {
       "id": "6",
-      "name": "Gabapentina",
+      "nombre": "Gabapentina",
       "dosis": "100mg",
       "contraindicaciones": "somnolencia, debilidad o cansancio, mareos, dolor de cabeza, temblor incontrolable de alguna parte del cuerpo, ansiedad.",
       "usos": "utilizado para ayudar a manejar ciertas convulsiones epilépticas y aliviar el dolor para algunas afecciones, como el herpes"
     },
     {
       "id": "7",
-      "name": "Ibuprofeno",
+      "nombre": "Ibuprofeno",
       "dosis": "100mg",
       "contraindicaciones": "Estreñimiento, diarrea, gases o distensión abdominal, mareo, nerviosismo, zumbidos en los oídos.",
       "usos": "se usa para bajar la fiebre y para aliviar dolores leves como dolores de cabeza, dolores musculares, artritis, cólicos menstruales"
     },
     {
       "id": "8",
-      "name": "Jakavi",
+      "nombre": "Jakavi",
       "dosis": "100mg",
       "contraindicaciones": "Hipersensibilidad al principio activo",
       "usos": "tratamiento de los siguientes trastornos: • mielofibrosis en adultos que presentan esplenomegalia (aumento de tamaño del bazo)"
     },
     {
       "id": "9",
-      "name": "Metamizol Sodico",
+      "nombre": "Metamizol Sodico",
       "dosis": "100mg",
       "contraindicaciones": "reacciones de hipersensibilidad: las más importantes son discrasias sanguíneas (agranulocitosis, leucopenia, trombocitopenia) y choque.",
       "usos": "para el tratamiento del dolor agudo intenso (postoperatorio, posttraumático, cólico, neoplásico) o de la fiebre alta que no responde a otros tratamientos"
