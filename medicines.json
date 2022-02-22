@@ -4,7 +4,7 @@
       "id": "0",
       "nombre": "Aspirina",
       "dosis": "500mg",
-      "contraindicaciones": "lcera gastroduodenal aguda, crónica o recurrente; molestias gástricas de repetición, antecedentes de hemorragia o perforación gástrica tras tto. con AAS o AINE; diátesis hemorrágica; historia de asma o asma inducida por salicilatos o medicamentos de acción similar;",
+      "contraindicaciones": "Ulcera gastroduodenal aguda, crónica o recurrente; molestias gástricas de repetición, antecedentes de hemorragia o perforación gástrica tras tto. con AAS o AINE; diátesis hemorrágica; historia de asma o asma inducida por salicilatos o medicamentos de acción similar;",
       "usos": "Actua reduciendo el dolor y la fiebre."
     },
     {
@@ -40,35 +40,35 @@
       "nombre": "Fabroven",
       "dosis": "100mg",
       "contraindicaciones": "Trastornos de almacenamiento del hierro (talasemia, hemocromatosis, anemia sideroblástica)",
-      "usos": "tratamiento de las manifestaciones crónicas, funcionales y orgánicas de los miembros inferiores"
+      "usos": "Tratamiento de las manifestaciones crónicas, funcionales y orgánicas de los miembros inferiores"
     },
     {
       "id": "6",
       "nombre": "Gabapentina",
       "dosis": "100mg",
-      "contraindicaciones": "somnolencia, debilidad o cansancio, mareos, dolor de cabeza, temblor incontrolable de alguna parte del cuerpo, ansiedad.",
-      "usos": "utilizado para ayudar a manejar ciertas convulsiones epilépticas y aliviar el dolor para algunas afecciones, como el herpes"
+      "contraindicaciones": "Somnolencia, debilidad o cansancio, mareos, dolor de cabeza, temblor incontrolable de alguna parte del cuerpo, ansiedad.",
+      "usos": "Utilizado para ayudar a manejar ciertas convulsiones epilépticas y aliviar el dolor para algunas afecciones, como el herpes"
     },
     {
       "id": "7",
       "nombre": "Ibuprofeno",
       "dosis": "100mg",
       "contraindicaciones": "Estreñimiento, diarrea, gases o distensión abdominal, mareo, nerviosismo, zumbidos en los oídos.",
-      "usos": "se usa para bajar la fiebre y para aliviar dolores leves como dolores de cabeza, dolores musculares, artritis, cólicos menstruales"
+      "usos": "Se usa para bajar la fiebre y para aliviar dolores leves como dolores de cabeza, dolores musculares, artritis, cólicos menstruales"
     },
     {
       "id": "8",
       "nombre": "Jakavi",
       "dosis": "100mg",
       "contraindicaciones": "Hipersensibilidad al principio activo",
-      "usos": "tratamiento de los siguientes trastornos: • mielofibrosis en adultos que presentan esplenomegalia (aumento de tamaño del bazo)"
+      "usos": "Tratamiento de los siguientes trastornos: • mielofibrosis en adultos que presentan esplenomegalia (aumento de tamaño del bazo)"
     },
     {
       "id": "9",
       "nombre": "Metamizol Sodico",
       "dosis": "100mg",
-      "contraindicaciones": "reacciones de hipersensibilidad: las más importantes son discrasias sanguíneas (agranulocitosis, leucopenia, trombocitopenia) y choque.",
-      "usos": "para el tratamiento del dolor agudo intenso (postoperatorio, posttraumático, cólico, neoplásico) o de la fiebre alta que no responde a otros tratamientos"
+      "contraindicaciones": "Reacciones de hipersensibilidad: las más importantes son discrasias sanguíneas (agranulocitosis, leucopenia, trombocitopenia) y choque.",
+      "usos": "Para el tratamiento del dolor agudo intenso (postoperatorio, posttraumático, cólico, neoplásico) o de la fiebre alta que no responde a otros tratamientos"
     }
   ]
 }
